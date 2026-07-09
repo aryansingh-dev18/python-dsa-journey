@@ -1,19 +1,6 @@
 """
 Problem: Second Largest Element
 Topic: Arrays
-Time Complexity: o(n)
-Space Complexity: o(1)
-Date: 09-07-2026
-"""
-
-arr = [12,65,45,89,23]
-
-largest = arr[0]
-second_largest = arr[0]
-
-"""
-Problem: Second Largest Element
-Topic: Arrays
 Time Complexity: O(n)
 Space Complexity: O(1)
 Date: 09-07-2026
